@@ -15,7 +15,6 @@ Git &amp; Github 基礎課程與實作
 - Git 下載及安裝
 - Git 用途簡介
 - 註冊 GitHub 帳號
-- Module 1 Quiz
 
 學習 Git 版本控制的基本概念，了解為什麼開發專案需要保留版本紀錄，以及 Git 與 GitHub 在開發流程中的用途。
 
@@ -27,7 +26,6 @@ Git &amp; Github 基礎課程與實作
 - 創建 Repository
 - Git 與 GitHub 的關係
 - 製作金鑰
-- Module 2 Quiz
 
 學習 GitHub Repository 的建立與基本操作，了解本地端 Git 與遠端 GitHub Repository 之間的關係，以及使用金鑰進行連線與驗證。
 
@@ -39,7 +37,6 @@ Git &amp; Github 基礎課程與實作
 - 將 Repository 下載至本地端
 - 安裝 SourceTree
 - SourceTree 介面介紹
-- Module 3 Quiz
 
 練習使用終端機操作 Git，將 GitHub Repository 下載至本地端，並使用 SourceTree 圖形化工具管理 Git Repository。
 
@@ -47,12 +44,10 @@ Git &amp; Github 基礎課程與實作
 
 ### Module 4｜Git 版本建立
 
-- 建立新版本（上）
-- 建立新版本（下）
+- 建立新版本
 - `.gitignore` 文件
 - 版本切換
 - 上傳 GitHub
-- Module 4 Quiz
 
 練習建立 Git 版本紀錄、使用 `.gitignore` 排除不需要追蹤的檔案、切換不同版本，以及將本地端程式碼 Push 至 GitHub。
 
@@ -63,10 +58,8 @@ Git &amp; Github 基礎課程與實作
 - 分支用途
 - 建立及切換分支
 - 合併分支 Merge
-- 衝突解決（上）
-- 衝突解決（下）
+- 衝突解決
 - 刪除分支
-- Module 5 Quiz
 
 學習 Branch 的用途與基本操作，練習建立、切換、合併及刪除分支，並處理多人開發時可能發生的 Merge Conflict。
 
@@ -77,7 +70,6 @@ Git &amp; Github 基礎課程與實作
 - 分支名稱介紹
 - Git Flow
 - 實作：模擬多人開發
-- Module 6 Quiz
 
 了解常見的 Branch Naming 與 Git Flow 開發流程，並透過模擬多人協作練習不同分支之間的開發與整合方式。
 
@@ -86,10 +78,8 @@ Git &amp; Github 基礎課程與實作
 ### Module 7｜Git 進階操作
 
 - Git Revert
-- Git Reset（上）
-- Git Reset（下）
+- Git Reset
 - Git Revert / Reset / Rebase
-- Module 7 Quiz
 
 學習 Git 版本復原與歷史調整相關操作，了解 `revert`、`reset`、`rebase` 的用途與差異。
 
